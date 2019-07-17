@@ -7,7 +7,8 @@ title: Home
 
 <h1> Category List </h1>
 
-[オムリ][https://youssefomri.github.io/r4nd/blog.html]
+[オムリ](https://youssefomri.github.io/r4nd/blog.html)
+adfagag
 {% for category in site.categories %}
 <h3>{{ category[0] }}</h3>
 <ul>
