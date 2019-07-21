@@ -1,0 +1,1 @@
+![Jekyll_list](https://img.shields.io/github/commit-activity/w/Hiroto-S/jekyll_list.svg?label=7%2F22&logo=jekyll_list&logoColor=blue)
