@@ -22,7 +22,7 @@ title: Home
 
 [岡本](https://yudachi8511.github.io/jekyll_yudai/blog.html)
 
-[かわい]()
+[川井](https://akiyo0605.github.io/jekyllkawai/blog.html)
 
 [池田]()
 
