@@ -13,7 +13,6 @@ Jekyllで画像が表示されない
     たけぞう瀕死ブログ](https://takezoe.hatenablog.com/entry/20140629/p1)
     accessed on 25 July 2019.
 
-!\[a\]({{site.baseurl}}/assets/images/nichiyama-blog-red.svg)\*\*
 ![a]({{site.baseurl}}/assets/images/nichiyama-blog-red.svg)JekyllでSVGが表示されない
 
 -   標準ではsvgが表示されないため，以下の手順で解決した．

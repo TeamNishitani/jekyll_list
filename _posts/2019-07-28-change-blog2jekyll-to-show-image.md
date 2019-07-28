@@ -31,7 +31,6 @@ md~cont~ = '' file~name~ =
 File.join(\$jekyll~postspath~,File.basename(file))
 File.foreach(file~name~) do |line| img = line.match *!\
 $$a\$$${{site.baseurl}}\/assets\/images\/(.*)$* if img != nil line
-&lt;&lt; "!\[a\]({{site.baseurl}}/assets/images/\#{img\[1\]})" md~cont~
 ![a]({{site.baseurl}}/assets/images/\#{img\[1\]})&lt;&lt; line else md~cont~ &lt;&lt; line end end
 rev~md~(file~name~,md~cont~) end end
 
@@ -70,5 +69,4 @@ rm~backslashmd~
 
 -   test
 
-!\[a\]({{site.baseurl}}/assets/images/nichiyama-blog-red.svg)
 ![a]({{site.baseurl}}/assets/images/nichiyama-blog-red.svg)

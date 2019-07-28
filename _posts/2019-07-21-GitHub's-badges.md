@@ -17,7 +17,6 @@
 
     にアクセス
 
-!\[a\]({{site.baseurl}}/assets/images/shields~io~.png)のStaticの部分を埋める
 ![a]({{site.baseurl}}/assets/images/shields~io~.png)(オムリさんはやく画像読み込みの実装して\~)
 
 -   mdでの表示例

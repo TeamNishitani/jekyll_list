@@ -24,5 +24,4 @@ github.ioでテーマが表示されない
 
 -   assets/imgに画像を入れる
 
-!\[a\]({{site.baseurl}}/assets/images/omri.jpg)
 ![a]({{site.baseurl}}/assets/images/omri.jpg)
