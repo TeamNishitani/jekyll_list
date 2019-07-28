@@ -5,7 +5,7 @@ Jekyllで画像が表示されない
 
 ``` {.example}
 #+begin_quote
-![キャプション]({{site.baseurl}}/images/sample.png)
+![キャプション]({{site.baseurl}}/assets/images/sample.png)
 #end_quote
 ```
 
@@ -57,3 +57,8 @@ blog2jekyllによるsvg表示の自動化
     !$$a$$({{site.baseurl}}/images/nichiyama-blog-red.svg)
     のように"がつく．
 
+test
+====
+
+!\[キャプション\]({{site.baseurl}}/assets/images/nichiyama-blog-red.svg)
+\[キャプション\]\[{{site.baseurl}}/assets/images/nichiyama-blog-red.svg\]
