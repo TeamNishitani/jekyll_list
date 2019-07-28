@@ -1,12 +1,3 @@
----
-layout: post
-title: -------
-author: Hiroto Kono
-date: 2019-1-1
-category: Lab
-keywords: Freedom and liberty
----
-
 Jekyllで画像が表示されない
 --------------------------
 
@@ -23,12 +14,9 @@ Jekyllで画像が表示されない
 -   [Jekyllのエントリに画像を貼る -
     たけぞう瀕死ブログ](https://takezoe.hatenablog.com/entry/20140629/p1)
     accessed on 25 July 2019.
-    
-    aaaaaaa
-    ![a]({{site.baseurl}}/assets/images/nichiyama-blog-red.svg)
 
+!\[a\]({{site.baseurl}}/assets/images/nichiyama-blog-red.svg)\*\*
 JekyllでSVGが表示されない
--------------------------
 
 -   標準ではsvgが表示されないため，以下の手順で解決した．
     -   Jekyllのホームディレクトリに~pluginsディレクトリを作成~
@@ -66,4 +54,6 @@ blog2jekyllによるsvg表示の自動化
 ### 問題点
 
 -   リンクを変更しmdに変換すると,
+    !$$a$$({{site.baseurl}}/images/nichiyama-blog-red.svg)
+    のように"がつく．
 

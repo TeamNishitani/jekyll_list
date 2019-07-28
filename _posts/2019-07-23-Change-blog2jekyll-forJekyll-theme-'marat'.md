@@ -1,19 +1,3 @@
----
-
-layout: post
-
-title: -------
-
-author: Hiroto Kono
-
-date: 2019-1-1
-
-category: Lab
-
-keywords: Freedom and liberty
-
----
-
 問題点1
 -------
 
@@ -40,4 +24,4 @@ github.ioでテーマが表示されない
 
 -   assets/imgに画像を入れる
 
-!\[a\]({{site.baseurl}}/images/omri.jpg)
+!\[a\]({{site.baseurl}}/assets/images/omri.jpg)

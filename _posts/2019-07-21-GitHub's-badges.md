@@ -1,19 +1,3 @@
----
-
-layout: post
-
-title: -------
-
-author: Hiroto Kono
-
-date: 2019-1-1
-
-category: Lab
-
-keywords: Freedom and liberty
-
----
-
 はじめに
 --------
 
@@ -33,7 +17,7 @@ keywords: Freedom and liberty
 
     にアクセス
 
-!\[a\]({{site.baseurl}}/images/shields~io~.png)のStaticの部分を埋める
+!\[a\]({{site.baseurl}}/assets/images/shields~io~.png)のStaticの部分を埋める
 (オムリさんはやく画像読み込みの実装して\~)
 
 -   mdでの表示例
