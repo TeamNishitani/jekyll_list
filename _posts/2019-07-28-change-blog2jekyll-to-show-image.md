@@ -1,16 +1,16 @@
 やったこと
 ----------
 
--   blog2jekyllを改良し，画像(svgも)を表示できるようにした．
+-   blog2jekyllを改良し，画像(svgも)を表示できるように
 -   以下の手順で(とりあえずベタ書き)
     -   mdに変換後,リンクがあれば抽出
-    -   "が付いてしまうので，"が無いように書き換え,mdを更新
+    -   バックスラッシュが付いてしまうので，バックスラッシュが無いように書き換え,mdを更新
 
 コード
 ------
 
 ``` {.example}
-#+begin_quote
+
 s\/images\/(.*)\)/
       if img != nil
         line << "![a]({{site.baseurl}}/assets/images/#{img[1]})"
@@ -71,7 +71,7 @@ FileUtils.cp_r($myhelp_images_path, $assets_img)
 end
 
 rm_backslash_md
-#+end_quote
+
 ```
 
 -   test
