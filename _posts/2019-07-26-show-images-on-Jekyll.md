@@ -16,7 +16,7 @@ Jekyllで画像が表示されない
     accessed on 25 July 2019.
 
 !\[a\]({{site.baseurl}}/assets/images/nichiyama-blog-red.svg)\*\*
-JekyllでSVGが表示されない
+![a]({{site.baseurl}}/assets/images/nichiyama-blog-red.svg)JekyllでSVGが表示されない
 
 -   標準ではsvgが表示されないため，以下の手順で解決した．
     -   Jekyllのホームディレクトリに~pluginsディレクトリを作成~
