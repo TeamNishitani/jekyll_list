@@ -4,9 +4,7 @@ Jekyllで画像が表示されない
 -   .mdに以下を直書きで表示することができる．
 
 ``` {.example}
-#+begin_quote
 ![キャプション]({{site.baseurl}}/assets/images/sample.png)
-#end_quote
 ```
 
 ### 参考文献
@@ -24,11 +22,9 @@ Jekyllで画像が表示されない
         -   内容は以下に
 
         ``` {.example}
-        #+begin_quote
         require 'webrick'
         include WEBrick
         WEBrick::HTTPUtils::DefaultMimeTypes.store 'svg', 'image/svg+xml'
-        #+end_quote
         ```
 
 ### 参考文献
@@ -46,9 +42,7 @@ blog2jekyllによるsvg表示の自動化
 -   orgに書いてあるリンクを以下の形に変えて，mdへ変換
 
     ``` {.example}
-    #+begin_quote
     ![キャプション]({{site.baseurl}}/images/sample.png)
-    #+end_quote
     ```
 
 ### 問題点
