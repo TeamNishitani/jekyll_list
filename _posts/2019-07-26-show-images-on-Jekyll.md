@@ -17,7 +17,7 @@ Jekyllで画像が表示されない
 
 -   標準ではsvgが表示されないため，以下の手順で解決した．
     -   Jekyllのホームディレクトリに~pluginsディレクトリを作成~
-    -   pluginsにsvg~mimetype~.rbというファイルを作成.
+    -   pluginsにsvg.rbというファイルを作成.
         -   内容は以下に
 
         ``` {.example}
