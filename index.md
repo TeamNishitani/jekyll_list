@@ -8,7 +8,7 @@ title: Home
 
 [日山](https://nichiyama.github.io/nichiyamanko/19-07-17/chinko)
 
-[河野](https://Hiroto-S.github.io/s_blog/)
+[河野](https://hiroto-s.github.io/jekyll_list/blog.html)
 
 [中野]()
 
