@@ -5,6 +5,7 @@ title: Home
 
 
 <h1> Member's Jekyll List </h1>
+[西谷](https://daddygongon.github.io/jekyll_test9)
 
 [日山](https://nichiyama.github.io/nichiyamanko/19-07-17/chinko)
 
